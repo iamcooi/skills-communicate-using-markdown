@@ -4,7 +4,9 @@
 #### 四级标题
 ##### 五级标题
 ###### 六级标题
-
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
 ```
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
